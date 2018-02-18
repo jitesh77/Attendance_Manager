@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Button
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/subjectbutton"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="25dp"
+    android:background="#3f85f4"
+    android:textColor="#ffffff"
+    android:text="Subject"
+    android:layout_margin="10dp"
+    />
